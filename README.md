@@ -1,3 +1,5 @@
+![hero-section (1)](https://github.com/BlockFloww/brand/assets/63545809/7e047970-ff9a-4b88-b9a9-2f8ef72453a1)
+
 # Blockflow Marketing Kit
 
 The smarter way for crypto teams to build products. Managed Databases, On-chain Triggers, and Custom APIs in one product
